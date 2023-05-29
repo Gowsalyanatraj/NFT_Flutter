@@ -26,7 +26,7 @@ class MyBottomBar extends StatelessWidget {
       items: const [
         BottomNavigationBarItem(icon: Icon(Icons.home_outlined), label: 'Home'),
         BottomNavigationBarItem(
-            icon: Icon(Icons.notifications_outlined), label: 'Home'),
+            icon: Icon(Icons.notifications_outlined), label: 'settings'),
         BottomNavigationBarItem(
             icon: Icon(Icons.favorite_outline), label: 'Home'),
         BottomNavigationBarItem(
